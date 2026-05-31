@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shoaibkhan1s&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://streak-stats.demolab.com?user=shoaibkhan1s&theme=dark&hide_border=false&v=999)
+![](https://github-readme-streak-stats-eight.vercel.app?user=shoaibkhan1s&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkhan1s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shoaibkhan1s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
